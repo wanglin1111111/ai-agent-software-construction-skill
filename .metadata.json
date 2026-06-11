@@ -1,0 +1,16 @@
+{
+  "assetType": "skill",
+  "name": "ai-agent-era-software",
+  "displayName": "AI Agent时代软件构建技能包",
+  "semver": "1.0.0",
+  "description": "基于a16z最新观点的AI Agent时代软件构建技能包，涵盖Agent优先架构设计、技术本质回归、系统化思维培养、Agent权限与安全管理、Token预算管理、数据层价值重构、初创公司AI策略、市场扩张思维等八大核心技能。适用于技术领导者、产品经理和软件开发者。",
+  "author": "22812",
+  "tags": [
+    "AI-Agent",
+    "software-architecture",
+    "tech-strategy",
+    "a16z",
+    "organizational-change",
+    "market-expansion"
+  ]
+}
