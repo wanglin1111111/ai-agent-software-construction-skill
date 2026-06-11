@@ -1,8 +1,8 @@
----
-name: ai-agent-era-software
+﻿---
+name: AI Agent时代软件构建技能包
 description: "基于a16z最新观点的AI Agent时代软件构建技能包，涵盖架构设计、技术本质、组织变革等八大核心技能"
 version: 1.0.0
-author: "AI Skill Extractor"
+author: wanglin1111111
 tags: ["AI Agent", "软件架构", "技术战略", "组织变革", "市场扩张"]
 ---
 
